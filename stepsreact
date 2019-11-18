@@ -1,5 +1,11 @@
+A)for fresh projects in laptop
 1)download nodejs
 2)donwnload robo3t(https://robomongo.org/download)
 3)download mongodb(https://www.mongodb.com/download-center/community)
 4)download postman
 5)environment setup video(https://www.youtube.com/watch?v=1uFY60CESlM)
+
+B)React setup
+npx create-react-app my-app
+cd my-app
+npm start
